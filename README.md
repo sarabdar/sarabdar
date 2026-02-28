@@ -34,16 +34,22 @@ I enjoy building **end-to-end ML systems** — from data processing and model tr
 
 ## 🚀 Experience  
 
-**Smart Zone Leaders (Pvt) Ltd** – *Kharian, Punjab, Pakistan*  | Sep 2024 – Present  
-
-**AI / Computer Vision Engineer (Full-time)**  
+**HyperVisionWorld** – *Computer Vision Engineer*  
+*Kharian / Gujrat, Punjab, Pakistan* | Feb 2026 - Present  
 - Building **real-time AI surveillance and monitoring systems** using computer vision  
-- Working with **live camera streams, detection pipelines, and alert systems**  
-- Deploying AI models in production environments and integrating with real-world infrastructure  
+- Developing detection pipelines on **live camera streams** with alerting and event-trigger systems  
+- Working on deployment of models in **production environments** integrated with real-world infrastructure  
 
-**Machine Learning Engineer (Intern → Full-time)**  
+---
+
+**Smart Zone Leaders (Pvt) Ltd** – *Kharian, Punjab, Pakistan*  | Sep 2024 – Feb 2026
+
+**Machine Learning Engineer (Full-time)**  
 - Built ML systems using **Python, LangChain, CrewAI, Azure ML, Databricks, AWS SageMaker**  
-- Developed and deployed models across NLP, predictive analytics, and automation pipelines  
+- Developed and deployed models across **NLP, predictive analytics, and automation pipelines**  
+
+**Machine Learning Engineer (Internship)**  
+- Gained hands-on experience with **Python and Machine Learning systems**  
 
 ---
 
@@ -62,9 +68,6 @@ I enjoy building **end-to-end ML systems** — from data processing and model tr
 **Apex Elite Solutions** – *Remote*  
 **Project Intern** | Jul 2022 – Nov 2022  
 - Worked on projects using **React.js**  
-
----
-
 ## 📂 Projects (Coming Soon 🚧)
 
 I’m currently documenting and polishing my projects for public release.

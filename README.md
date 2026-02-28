@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_ID">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3EB489&center=true&vCenter=true&width=650&lines=AI+Engineer;Computer+Vision+%26+Real-Time+AI+Systems;Python+%7C+Deep+Learning+%7C+MLOps; Building+Intelligent+Systems+for+Real+World+Use" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3EB489&center=true&vCenter=true&width=650&lines=AI+Engineer;Computer+Vision+%26+Real-Time+AI+Systems;Python+%7C+Deep+Learning+%7C+MLOps;Building+Intelligent+Systems+for+Real+World+Use" alt="Typing Animation" />
   </a>
 </p>
 

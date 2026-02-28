@@ -13,7 +13,7 @@ I’m an AI Engineer with hands-on experience building and deploying intelligent
 
 My work spans **Machine learning, Computer Vision, and Real-time AI systems**, with a focus on taking solutions from prototype to production. Recently, I’ve been working on **AI-powered monitoring and decision-support systems** where models operate on live video streams and assist human operators by highlighting relevant events.
 
-I enjoy building **end-to-end ML systems** — from data processing and model training to deployment and real-world integration.
+I enjoy building **end-to-end ML systems** from data processing and model training to deployment and real-world integration.
 
 ---
 

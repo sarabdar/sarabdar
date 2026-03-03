@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Sarab Dar  
 
-🤖 **AI Engineer | Computer Vision & Real-Time Systems**
+🤖 **AI Engineer**
 
 I’m an AI Engineer with hands-on experience building and deploying intelligent systems that solve real-world problems.
 
